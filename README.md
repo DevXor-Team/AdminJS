@@ -1,8 +1,8 @@
 <h1>AdminJs Template</h1>
 
-It is a system from which you can access the data, modify it, add and delete files, and you can also add people who enter the site and they will have permissions like you
-Note: If you enter someone on the site, he will be able to access all the data, so he can delete or remove all the data, but you can read this link [AdminJsDocs](https://docs.adminjs.co/tutorials/adding-role-based-access-control) to find out how Giving certain people certain permissions without dangerous permissions.
+It is a system from which you can access the data, modify it, add and delete files, and you can also add people who enter the site and they will have permissions like you.
 
+Note: If you enter someone on the site, he will be able to access all the data, so he can delete or remove all the data, but you can read this link [AdminJsDocs](https://docs.adminjs.co/tutorials/adding-role-based-access-control) to find out how Giving certain people certain permissions without dangerous permissions.
 
 Please note, I will not update or change the project, because it is just a project template to clarify the work with the AdminJs. I will not update or fix errors.
 If you solve problems or make updates to improve them, please open the RP.
@@ -33,11 +33,11 @@ Then fill out the following credentials:
 
 - ### Deployment
 
-To deploy the bot simply run:
+To deploy the project simply run:
 
     npm start
 
-If you installed and setup eveything correctly then the bot should output something like this:
+If you installed and setup eveything correctly then the project should output something like this:
 
     AdminJS is running under localhost:${process.env.Port}/admin
 
